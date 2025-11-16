@@ -1,6 +1,6 @@
 # 💫 About Me: 
 
-1. “Currently learning Ionic, React, and TypeScript.”<br>2. “Improving my skills in Ionic, React, and TypeScript.”<br>3. “Learning Ionic + React with TypeScript to build better apps.”<br>4. “Focused on mastering Ionic, React, and TypeScript.”<br>5. “Exploring cross-platform app development with Ionic, React, and TypeScript.”
+  1. “Currently learning Ionic, React, and TypeScript.”<br>2. “Improving my skills in Ionic, React, and TypeScript.”<br>3. “Learning Ionic + React with TypeScript to build better apps.”<br>4. “Focused on mastering Ionic, React, and TypeScript.”<br>5. “Exploring cross-platform app development with Ionic, React, and TypeScript.”
 
 
 ## 🌐 Socials:
